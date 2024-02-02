@@ -30,4 +30,4 @@
 
 ---
 
-<p>جميع الحقوق محفوظة © لـ <a href="https://codepen.io/bomba-001" target="blank"><img align="center" src="https://api.iconify.design/mdi:web-cancel.svg?color=%23888888" alt="bomba-001" height="30" width="40" /><span>Hussein Ado</span></a> 2024.</p>
+<p>جميع الحقوق محفوظة © لـ <a href="https://bomba-001.github.io/CV-Hussein/" target="blank"><img align="center" src="https://api.iconify.design/mdi:web-cancel.svg?color=%23888888" alt="BomBa"/><span>Hussein Ado</span></a> 2024.</p>
