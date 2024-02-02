@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bomba-001&show_icons=true&locale=en" alt="bomba-001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bomba-001&" alt="bomba-001" /></p>
+
+---
+
+<a href="https://codepen.io/bomba-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bomba-001" height="30" width="40" /></a>
