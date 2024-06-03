@@ -31,8 +31,8 @@
 ---
 ## License ©️ <!-- الرخصة -->
 
-The License ([BOMBA](https://bomba-001.github.io/BomBa/))
-
-Copyright (c) 2016 [Hussein Abdo](https://bomba-001.github.io/CV-Hussein/)
-
+<div style="display:flex;justify-content:space-evenly;align-content:center;">  
+<p>The License <a href="https://bomba-001.github.io/BomBa/" target="blank"><img align="center" src="https://api.iconify.design/mdi:web-cancel.svg?color=%23888888" alt="BomBa"/><span>BomBa</span></a></p>
+  
 <p>جميع الحقوق محفوظة © لـ <a href="https://bomba-001.github.io/CV-Hussein/" target="blank"><img align="center" src="https://api.iconify.design/mdi:web-cancel.svg?color=%23888888" alt="BomBa"/><span>Hussein Ado</span></a> 2024.</p>
+</div>
