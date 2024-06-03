@@ -29,5 +29,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bomba-001&" alt="bomba-001" /></p>
 
 ---
+## License ©️ <!-- الرخصة -->
+
+The License ([BOMBA](https://bomba-001.github.io/BomBa/))
+
+Copyright (c) 2016 [Hussein Abdo](https://bomba-001.github.io/CV-Hussein/)
 
 <p>جميع الحقوق محفوظة © لـ <a href="https://bomba-001.github.io/CV-Hussein/" target="blank"><img align="center" src="https://api.iconify.design/mdi:web-cancel.svg?color=%23888888" alt="BomBa"/><span>Hussein Ado</span></a> 2024.</p>
